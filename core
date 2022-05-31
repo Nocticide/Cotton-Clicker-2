@@ -1,1 +1,16 @@
+Let's make a game!
+  name:My Totally Original Game
 
+Resources
+  *pie
+    name:Pie
+    desc:A delicious pie.
+
+Upgrades
+  *applePieRecipe
+    name:Apple pie recipe
+    desc:Unlocks the ability to make apple pies!
+    
+  *cherryPieRecipe
+    name:Cherry pie recipe
+    desc:Boy, you'll never guess!
