@@ -22,7 +22,7 @@ Buildings
     name:Brown cow
     desc:A big friendly cow that generates 1 milk per second.   
     cost:20 coins
-    on tick:give 1 milk
+    on tick:give 1 Cotton
 
 Buttons
  *pickCotton
