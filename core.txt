@@ -14,3 +14,10 @@ Upgrades
   *cherryPieRecipe
     name:Cherry pie recipe
     desc:Boy, you'll never guess!
+
+Buildings
+  *brownCow
+    name:Brown cow
+    desc:A big friendly cow that generates 1 milk per second.
+    cost:20 coins
+    on tick:give 1 milk
