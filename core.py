@@ -30,9 +30,3 @@ Buttons
   desc:Click to pick cotton. Gains 1 cotton.
   on click:yield 1 Cotton
     
-Shinies
- #*cottonClicky
- # name:Cotton Plant
- # on click:yield (random(10,100)) gold
- # movement:anywhere fade bounce moveRandom
- # frequency:120
